@@ -14,11 +14,6 @@ function App() {
       <List/>
       <TabComp/>
       <Form/>
-
-
-
-
-
       
     </div>
   )
