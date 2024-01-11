@@ -1,16 +1,21 @@
+import Button from "../buttonComp/button"
 
 
-import Button from "../ButtonComp/button"
+
+
+
+
 
 const Form=()=>{
     return(
         <div>
+          
             <h1>Login Forms</h1>
             <form>
                 <input type="text"></input><br/><br/>
                 <input type="password"></input>
             </form>
-              <Button/>
+            <Button/>
         </div>
     )
 }

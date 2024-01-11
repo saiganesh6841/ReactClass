@@ -1,0 +1,33 @@
+
+.edu{
+    color: red;
+    font-size: 25px;
+}
+table,tr,th,td{
+    border: 2px solid rgb(34, 45, 80);
+}
+.hobbies{
+    color: brown;
+}
+.techSkills{
+    color: brown;
+}
+.hobbies,li{
+    list-style-type:circle;
+    color:rgb(154, 85, 80);
+}
+.name{
+    color:darkblue ;
+    text-align: center;
+}
+.mid{
+    text-align: center;
+    color: darkgray;
+}
+.carrObj{
+    background-color:aquamarine;
+    color: crimson;
+}
+body{
+    background-color: aqua;
+}
