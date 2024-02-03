@@ -1,7 +1,7 @@
 
 import "../Components/styling/external.css"
 
- export const TodoList=()=>{
+  const TodoList=()=>{
     const obj={
         name:"SaiGanesh",
         email:"saiganesh6841@gmail.com",
@@ -68,3 +68,5 @@ import "../Components/styling/external.css"
         </div>
     )
 }
+
+export default TodoList
